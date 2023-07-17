@@ -1,5 +1,4 @@
 import pygame as pg
-from queue import PriorityQueue
 import pandas as pd
 import math
 
